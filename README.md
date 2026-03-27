@@ -11,7 +11,7 @@
 ## Security Controls
 ### Control categories 
 - Technical =  firewalls, anti-virus
-- Managerial = Security polocies, day to day processes
+- Managerial = Security policies, day to day processes
 - Operational = Security guards, awareness programs
 - Physical = limit physical access (badge readers, fences. locks)
 
@@ -26,7 +26,7 @@
 
 ## CIA Triad (AIC) - Fundamentals of security
 - C - Confidentality = prevent access to private info (encryption, limit access controls, 2-factor auth) 
-- I - Integrity = messages can be modified withought detection (hashing, digital sig, certificates, non-repudiation)
+- I - Integrity = messages can be modified without detection (hashing, digital sig, certificates, non-repudiation)
 - A - Availability = systems/networks must be up and running ( fault tolerance, patch systems)
 - Hash = You put something in → you get a scrambled output 
 - Non-repudiation = ensures that a person cannot deny the authenticity of their actions or communications.
