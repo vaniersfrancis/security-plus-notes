@@ -17,8 +17,8 @@
 
 
 ## CIA Triad (AIC) - Fundamentals of security
-C - Confidentality = prevent access to private info (encryption, limit access controls, 2-factor auth) 
-A - Availability = systems/networks must be up and running ( fault tolerance, patch systems)
-I - Integrity = messages can be modified withought detection (hashing, digital sig, certificates, non-repudiation)
+- C - Confidentality = prevent access to private info (encryption, limit access controls, 2-factor auth) 
+- A - Availability = systems/networks must be up and running ( fault tolerance, patch systems)
+- I - Integrity = messages can be modified withought detection (hashing, digital sig, certificates, non-repudiation)
         Hash - You put something in → you get a scrambled output 
         Non-repudiation - ensures that a person cannot deny the authenticity of their actions or communications.
