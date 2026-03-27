@@ -1,4 +1,12 @@
-# security-plus-notes
+# Security+ Notes
+## SY0-701 Study Notes and Learning Progress
+
+---
+
+## Progress
+- Started: March 26 2026
+- Last Updated: March 26 2026
+- Current Focus: Security Controls, CIA Triad
 
 ## Security Controls
 ### Control categories 
